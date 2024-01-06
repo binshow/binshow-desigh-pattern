@@ -1,4 +1,4 @@
-package factory_method;
+package _01_factory_method;
 
 // 坦克敌人
 public class Tank extends Enemy{

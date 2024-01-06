@@ -1,4 +1,4 @@
-package factory_method;
+package _01_factory_method;
 
 public class Airplane extends Enemy{
 
